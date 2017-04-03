@@ -1,0 +1,9 @@
+BODY {
+	FONT: 100.1% "Lucida Grande", Lucida, Verdana, sans-serif; BACKGROUND: #fff; COLOR: #000
+}
+#holder {
+	POSITION: absolute; MARGIN: 0px 0px 0px -320px; WIDTH: 640px; HEIGHT: 480px; TOP: 0px; LEFT: 50%
+}
+#copy {
+	POSITION: absolute; TEXT-ALIGN: right; BOTTOM: 0px; FONT-SIZE: 0.7em; RIGHT: 1em
+}
